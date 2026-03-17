@@ -111,6 +111,23 @@ button:hover {
   justify-content: center;
 }
 
+.reprovado {
+  border: 2px solid #7f1d1d
+;
+  box-shadow: inset 0 0 16px #7f1d1d
+;
+}
+
+.recuperacao {
+  border: 2px solid #713f12;
+  box-shadow: inset 0 0 16px #713f12;
+}
+
+.aprovado {
+  border: 2px solid #14532d;
+  box-shadow: inset 0 0 16px #14532d;
+}
+
 footer {
   display: flex;
   align-items: flex-end;
@@ -123,3 +140,5 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+
